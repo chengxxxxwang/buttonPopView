@@ -13,8 +13,8 @@ pop view (self define) in your view controller
 
 ----------------
 
-![screenshot](https://coding.net/u/chenxingwang/p/PopButton/git/blob/master/screenshot/2017-03-15%2010.21.50.gif)
+![screenshot](https://github.com/chengxxxxwang/buttonPopView/tree/master/screenshot)
 
 ----------------
 
-![screenshot1](https://coding.net/u/chenxingwang/p/PopButton/git/blob/master/screenshot/screenshot.gif)
+![screenshot1](https://github.com/chengxxxxwang/buttonPopView/blob/master/screenshot/screenshot.gif)
